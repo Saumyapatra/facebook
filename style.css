@@ -1,0 +1,31 @@
+body{
+    padding-top: 80px;
+    background-color: aliceblue;
+}
+h1{
+    color: royalblue;
+}
+button{
+    border: none;
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    width: 290px;
+    height: 40px;
+}
+div{
+    padding: 20px;
+    width: 400px;
+    height: 330px;
+    background-color: white;
+    border-radius: 20px;
+}
+input{
+    width: 290px;
+    height: 40px;
+    border-color: rgb(231, 242, 246);
+    padding-left: 15px;
+}
+#ur{
+    background-color:green;
+}
